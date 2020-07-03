@@ -9,3 +9,12 @@ i.icon {
 h1 {
 	margin-top: 5.0em;
 }
+
+#delete {
+	display: inline;
+	margin: 1.5em;
+}
+
+.description {
+	margin: 3em;
+}
